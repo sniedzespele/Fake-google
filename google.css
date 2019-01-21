@@ -1,0 +1,59 @@
+* {
+          box-sizing: border-box;
+}
+body {
+  font-family: "Arial", Helvetica, sans-serif; margin: 20px
+}
+#container {
+  overflow: auto;
+}
+  #logo {
+  height: 500px;
+  display: -webkit-flex;
+  display:         flex;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+
+}
+
+  #link1{
+  position: absolute;
+  right: : 0px;
+  width: 200px;
+}
+div, footer, header, nav {
+    border: solid 1px red;
+    padding:10px;}
+
+    header {
+    width: 100%;}
+    
+    footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  height: 70px;
+  background-color: white;
+  width: 100%;}
+
+  form input {
+  	height: 40px;
+  	width: 400px;
+ position: absolute;
+ top: +140px;
+ left:-100px;
+ display: -webkit-flex;
+  
+ }
+ form button:{
+ 	position: absolute;
+ top: +100px;
+ left:-100px;
+ display: -webkit-flex;
+ }
+ .link3:{
+ 	float: right;
+ }
+  
