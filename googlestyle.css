@@ -8,12 +8,12 @@ header {
 	position: absolute;
   top: 30%;
   left: 43%;
-  }
+}
 
 .container-form {position: absolute;
   top: 45%;
   left: 35%;
-  }
+}
 
   .typing{
   	width: 220px
@@ -30,9 +30,10 @@ margin: 20px;
     position: relative;
     left: 20px;
     top: 700px;
-    text-decoration: none;}
+    text-decoration: none;
+}
 
-    .container {
+.container {
   position: relative;
 }
 .dropbtn {
