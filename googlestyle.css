@@ -22,13 +22,15 @@ header {
 .link3{  position: absolute;
     right: 0;
     bottom: 0;
-margin: 20px}
+margin: 20px;
+}
 
 .link2 {
     float: left;
     position: relative;
     left: 20px;
-    top: 700px;}
+    top: 700px;
+    text-decoration: none;}
 
     .container {
   position: relative;
